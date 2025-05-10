@@ -1,4 +1,4 @@
-# Monte Carlo Simulation – Law of Large Numbers
+# Law of Large Numbers
 
 ### Author: Krystian Pietrzyk  
 ### Date: 23.04.2025  
