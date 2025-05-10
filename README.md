@@ -12,13 +12,9 @@ This simulation focus on:
 - Checking if random points fall inside a unit circle to estimate **π**
 - Monte Carlo method for approximating Euler's number **e**
 
-## How to run
+## How to Get Started
 Clone the repository and execute the scripts to explore numerical probability methods:
 ```bash
 git clone https://github.com/helloGrimm/probability-simulations.git
+cd probability-simulation
 
-```markdown
-### Available simulations:
-- Card probability analysis -> cd card-probability/
-- Monte Carlo method for approximating π -> cd pi-estimation/
-- Monte Carlo approach to estimate Euler's number (e) -> cd e-estimation/
