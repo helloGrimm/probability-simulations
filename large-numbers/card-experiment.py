@@ -1,4 +1,3 @@
-# Krsytian Pietrzyk
 import random
 from collections import Counter
 import matplotlib.pyplot as plt
