@@ -9,7 +9,7 @@ This simulation focus on:
 
 ## Example Simulations
 - Generating random numbers between 0 and 1, analyzing thier sum convergences to ~0,854
-- Checking if random points fall inside a unit circle to estimate π
+- Checking if random points fall inside a unit circle to estimate **π**
 - Monte Carlo method for approximating Euler's number **e**
 
 ## How to run
