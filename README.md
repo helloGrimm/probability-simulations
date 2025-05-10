@@ -14,7 +14,6 @@ This repository contains various computational probability experiments, includin
 Clone the repository and navigate to the desired simulation folder:  
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+https://github.com/helloGrimm/probability-simulations.git
 cd large-numbers/card-experiment  # or another simulation folder
 python script.py
