@@ -1,20 +1,20 @@
-# Monte Carlo & Probability Experiments
-This repository contains probability-based computational experiments using Monte Carlo methods and the Law of Large Numbers.
+## Probability & Monte Carlo Simulations  
 
-## Overview
-This simulation focus on:
-- Random number generation and probabilistic analysis
-- Estimating mathematical constants (e.g. **e**, **π**) using stochastic methods
-- Monte Carlo techniques for solving probabilitiy-realted problems
+This repository contains various computational probability experiments, including Monte Carlo simulations, stochastic models, and large number experiments.  
 
-## Example Simulations
-- Drawing 4 cards from a 53-card deck and analyzing probability of forming a pair of one color and two distinct others
-- Checking if random points fall inside a unit circle to estimate **π**
-- Monte Carlo method for approximating Euler's number **e**
+## Structure  
 
-## How to Get Started
-Clone the repository and execute the scripts to explore numerical probability methods:
+- `monte-carlo/pi-estimation/` → Monte Carlo method for approximating π  
+- `monte-carlo/e-estimation/` → Monte Carlo approach to estimate Euler's number (e)  
+- `large-numbers/card-experiment/` → Probabilistic analysis of random card draws (Large Numbers-based)   
+- `docs/` → Documentation and theoretical explanations  
+
+## How to Get Started  
+
+Clone the repository and navigate to the desired simulation folder:  
+
 ```bash
-git clone https://github.com/helloGrimm/probability-simulations.git
-cd probability-simulation
-
+git clone https://github.com/your-username/your-repository.git
+cd your-repository
+cd large-numbers/card-experiment  # or another simulation folder
+python script.py
