@@ -8,7 +8,7 @@ This simulation focus on:
 - Monte Carlo techniques for solving probabilitiy-realted problems
 
 ## Example Simulations
-- Generating random numbers between 0 and 1, analyzing thier sum convergences to ~0,854
+- Drawing 4 cards from a 53-card deck and analyzing probability of forming a pair of one color and two distinct others
 - Checking if random points fall inside a unit circle to estimate **π**
 - Monte Carlo method for approximating Euler's number **e**
 
