@@ -16,4 +16,4 @@ Clone the repository and navigate to the desired simulation folder:
 ```bash
 git https://github.com/helloGrimm/probability-simulations.git
 cd large-numbers/card-experiment  # or another simulation folder
-python script.py
+python pi-estimation.py # or another simulation file
