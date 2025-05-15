@@ -1,19 +1,16 @@
-## Probability & Monte Carlo Simulations  
+# 📊 Probability & Monte Carlo Simulations  
 
-This repository contains various computational probability experiments, including Monte Carlo simulations, stochastic models, and large number experiments.  
+This repository contains projects developed as part of **Probability Theory** coursework. It includes Monte Carlo simulations, statistical analysis, and numerical experiments related to the **Law of Large Numbers**.  
 
-## Structure  
+## 📂 Repository Structure  
+- **monte-carlo/pi-estimation.py** – Monte Carlo method for estimating **π**.  
+- **monte-carlo/e-estimation.py** – Numerical approximation of **Euler's number (e)** using Monte Carlo.  
+- **large-numbers/card-experiment.py** – Probability-based card drawing experiment using the **Law of Large Numbers**.  
+- **docs/** – Documentation and theoretical explanations.  
 
-- `monte-carlo/pi-estimation/` → Monte Carlo method for approximating π  
-- `monte-carlo/e-estimation/` → Monte Carlo approach to estimate Euler's number (e)  
-- `large-numbers/card-experiment/` → Probabilistic analysis of random card draws (Large Numbers-based)   
-- `docs/` → Documentation and theoretical explanations  
-
-## How to Get Started  
-
-Clone the repository and navigate to the desired simulation folder:  
-
-```bash
-git https://github.com/helloGrimm/probability-simulations.git
-cd large-numbers  # or another simulation folder
-python pi-estimation.py # or another simulation file
+## 🛠️ How to Run?  
+This repository includes Python scripts for running simulations. To get started:  
+```sh
+git clone https://github.com/helloGrimm/probability-simulations.git
+cd large-numbers  # or another experiment folder  
+python pi-estimation.py  # or another simulation script  
